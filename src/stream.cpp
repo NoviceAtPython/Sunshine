@@ -1,3 +1,4 @@
+// Modified by CloudDeploy contributors on 2026-05-24.
 /**
  * @file src/stream.cpp
  * @brief Definitions for the streaming protocols.

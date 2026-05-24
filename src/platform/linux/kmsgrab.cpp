@@ -1,3 +1,4 @@
+// Modified by CloudDeploy contributors on 2026-05-24.
 /**
  * @file src/platform/linux/kmsgrab.cpp
  * @brief Definitions for KMS screen capture.

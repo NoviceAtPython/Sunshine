@@ -1,3 +1,4 @@
+// Modified by CloudDeploy contributors on 2026-05-24.
 /**
  * @file src/nvenc/nvenc_base.cpp
  * @brief Definitions for abstract platform-agnostic base of standalone NVENC encoder.

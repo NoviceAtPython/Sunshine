@@ -1,3 +1,4 @@
+// Modified by CloudDeploy contributors on 2026-05-24.
 /**
  * @file src/audio.cpp
  * @brief Definitions for audio capture and encoding.
